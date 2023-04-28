@@ -1,3 +1,4 @@
+@media screen and (max-width: 768px)
 *{
     
     padding: 0;
@@ -17,13 +18,12 @@ body{
 a{
     display: inline-block;
     font-size: 32px;
-    background-color: rgb(253, 252, 48);
+    background-color:
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
-    border: 1px solid rgb(253, 252, 48);
-    border-left: 10px solid rgb(253, 252, 48);
-
+    border: 1px solid rgb(14, 4, 206)
+    
 }
 
 a:hover{
